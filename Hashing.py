@@ -1,0 +1,1 @@
+# Hasing is used for storage of algorithms
