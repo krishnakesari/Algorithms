@@ -1,1 +1,3 @@
-import pandas as import pd
+x = 1
+y = 2
+x + y 
