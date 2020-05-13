@@ -1,0 +1,1 @@
+# Data Structures are the path to optimization and they are efficient way to organize data
