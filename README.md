@@ -1,6 +1,6 @@
 # Algorithms
 
-### Algorithms powers softwares. They provide blue print on how a task need to be done.
+Algorithms powers softwares and provide blue print on how a task need to be done.
 
 Algortihm complexity
 1. Space complexity
@@ -19,8 +19,6 @@ O(log n) - Logarithmic - Finding an item in a sorted array with a binary search
 O(n) - Linear time - Searching an unsorted array for a specifc value
 O(n log n) - Log linear - Complex sorting algorithms like heap sort and merge sort
 O(n2) - Quadratic - Simple sorting algorithms, such as bubble sort, selection sort, and insertion sort
-
-# Topic that will be covered include 
 
 ## Data Structures
 
