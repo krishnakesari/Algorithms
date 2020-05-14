@@ -92,14 +92,17 @@ c. Pivot point selection - pick a pivot position as 1st position is called pivot
     i. All the work is done in partition stage
     ii. value larger than pivot value and shuffle values
 
-
 ## Searching Data
 Finding a specific data in a structure (searching a string)
-## Other Alogrithms
+1. Unordered list search - Linear search
+2. Ordered list - Binary search 
+a. Begining, last and mid point indexing
 
-## Computational Algorithms
-Given one input, calculating another 
+Determine if the list is sorted is critical to understand Algorithm performance
 
-## Collection Algorithms
-Works with collection of data (counting data, subsetting/filtering, navigating among elements)
+## Unique filtering with Hash Tables
+1. reducing list of items to eliminate duplicates 
+2. Modifying hash table to count values
+3. Recursive function to find maximum value
+
 
