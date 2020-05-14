@@ -74,10 +74,27 @@ Function calls itself
 2. Each time function is called, old arguements are saved
 
 
-
-
 ## Sorting Data
 Placing data in an specific order
+
+1. Bubble sort 
+a. Begins by comparing swaps value if first one is larger - so largest value move to end ! 
+b. Quadratic time complexity - for loop inside a for loop
+c. not a practical option 
+
+2. Merge sort - uses recursion to implement logic
+a. Divide and conquer algorithm
+b. Breaks dataset into individual pieces 
+c. merge two sorted arrays together, through advancing towards small to large numbers 
+
+3. quick sort - uses recursion to implement logic 
+a. Divide and conquer algorithm
+b. Operates in place of the data
+c. Pivot point selection - pick a pivot position as 1st position is called pivot value
+    i. All the work is done in partition stage
+    ii. value larger than pivot value and shuffle values
+
+
 ## Searching Data
 Finding a specific data in a structure (searching a string)
 ## Other Alogrithms
